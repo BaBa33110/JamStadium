@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "JamStadium",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
